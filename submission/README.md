@@ -1,4 +1,4 @@
-# Add-Your-Team-Name-Here
+# ACaRaJo
 
 A group of cool people from different majors spread around the world, but from Brazil! We think proteins are cool 🙌
 
