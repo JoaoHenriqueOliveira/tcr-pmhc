@@ -1,10 +1,14 @@
 # Add-Your-Team-Name-Here
 
-Our team is from ... and we think proteins are cool 🙌
+A group of cool people from different majors spread around the world, but from Brazil! We think proteins are cool 🙌
+
+Work in progress - check back soon - I'll see and I let you know
 
 ### Project Description
+
 We are working on the `tcr-pmhc` challenge.
-To predict using our model, press "Open Application" on the left. 
+To predict using our model, press "Open Application" on the left.
 
 ### Scoreboard
+
 You can track the performance of our predictor in the [challenge scoreboard](https://biolib.com/biohackathon/tcr-pmhc-scoreboard/).
