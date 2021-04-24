@@ -2,7 +2,7 @@
 
 A group of cool people from different majors spread around the world, but from Brazil! We think proteins are cool 🙌
 
-Work in progress - check back soon - I'll see and I let you know
+Work in progress ... I'll see and I let you know :)
 
 ### Project Description
 
